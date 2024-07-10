@@ -1,2 +1,2 @@
 # remote
-remote repo
+remote repo learninghub.com
